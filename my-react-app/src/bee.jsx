@@ -1,8 +1,13 @@
-
+import Cee from "./cee"
 
 function Bee(){
     return(
-        <h1>Its Honey op </h1>
+        <>
+        <Cee/>
+          <h1>Abdul Hanan</h1>
+          <p>This is para</p>
+        </>
+      
     )
 }
 
