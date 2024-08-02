@@ -21,26 +21,6 @@ React is a powerful library developed by Facebook for building fast and interact
 
 To get started with React, you need to have Node.js and npm (Node Package Manager) installed on your machine. You can download Node.js from [nodejs.org](https://nodejs.org/).
 
-## Project Structure
-
-The structure of this repository is as follows:
-
-react-basics/
-├── public/
-│ ├── index.html
-│ └── ...
-├── src/
-│ ├── components/
-│ │ └── ...
-│ ├── App.css
-│ ├── App.js
-│ ├── index.css
-│ ├── index.js
-│ └── ...
-├── .gitignore
-├── package.json
-└── README.md
-
 ## Installation
 
 Clone this repository to your local machine using the following command:
