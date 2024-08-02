@@ -6,12 +6,11 @@ Welcome to the **React Basics** repository! This project is aimed at helping beg
 
 - [Introduction](#introduction)
 - [Getting Started](#getting-started)
-- [Project Structure](#project-structure)
 - [Installation](#installation)
 - [Running the Project](#running-the-project)
 - [Learning Resources](#learning-resources)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Introduction
 
@@ -31,6 +30,7 @@ cd react-basics
 npm install
 npm start
 
+## learning-resources
 
 Here are some resources to help you learn React:
 
